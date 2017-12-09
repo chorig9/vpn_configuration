@@ -1,3 +1,4 @@
+cp easy-rsa /etc/openvpn
 cd easy-rsa/
 mkdir keys
 source ./vars
